@@ -79,7 +79,7 @@ let options = [
     }
     return select;
   }
-
+//Marcos ... hasta el conso.log(city)
 let  select = createSelect(options) //sera igual a retorno de funcion
 select.id='select'
 divSelect.appendChild(select) //Contenedor de select
